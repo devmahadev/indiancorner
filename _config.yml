@@ -1,0 +1,29 @@
+# Site settings
+title: Indian Corner
+subtitle: by Social Restaurant Group
+email: info.indiancorner@gmail.com
+description: A Premium Indian Restaurant By Social Restaurant Group
+baseurl: #"/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+url: https://www.indiancorner.ee/
+author: 
+street_address: e-Restaurant, Peetri, Rae Vald
+city: Peetri
+state: Rae Vald
+zip_code: 75312
+country: Estonia
+phone: +372 56854024
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/ic.peetri
+#github_url:
+#gitlab_url: h
+#googleplus_url: h
+instagram_url: https://instagram.com
+#linkedin_url: 
+#pinterest_url:
+#slack_url:
+#twitter_url: 
+
+# Build settings
+markdown: kramdown
