@@ -4141,6 +4141,7 @@
 					-webkit-object-position: center;
 					-ms-object-position: center;
 					object-position: center;
+					width: 100%;
 				}
 
 
@@ -4157,6 +4158,7 @@
 						-webkit-object-position: center;
 						-ms-object-position: center;
 						object-position: center;
+						width: 100%;
 					}
 				
 				}
