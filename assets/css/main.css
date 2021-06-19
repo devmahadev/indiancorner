@@ -3860,7 +3860,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url(/assets/images/bg-pattern-left.svg);
+		background-image: url(/assets/images/bg-pattern-left.png);
 		background-size: 24%, cover;
 		background-repeat: no-repeat, no-repeat;
 		background-position: center right, center center;
