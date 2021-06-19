@@ -3860,10 +3860,10 @@
 /* Banner */
 
 	#banner {
-		background-image: url(/assets/images/bg-pattern-left.png);
+		/* background-image: url(/assets/images/bg-pattern-left.png);
 		background-size: 24%, cover;
 		background-repeat: no-repeat, no-repeat;
-		background-position: center right, center center;
+		background-position: center bottom, center center; */
 		padding: 6em 0 4em 0 ;
 		display: -moz-flex;
 		display: -webkit-flex;
