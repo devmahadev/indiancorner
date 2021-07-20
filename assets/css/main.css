@@ -72,7 +72,7 @@
 	@media(min-width:768px) {
 
 	.logo_img {
-		width: 337px;
+		width: 100% !important;
 	}
 	
 	}
