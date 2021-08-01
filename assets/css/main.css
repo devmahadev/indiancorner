@@ -4531,6 +4531,15 @@ background-size: 90%;
 	.tag-links a:before {
 		content: "\0023";
 	}
+
+	.articlep-meta .author-avatar {
+		border-radius: 50%;
+		float: left;
+		height: 30px;
+		margin-right: 10px;
+		margin-top: -3px;
+		width: 30px;
+	}
 /* Footer */
 
 	#footer .copyright {
