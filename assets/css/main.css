@@ -3112,7 +3112,7 @@
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 0 2em -3em;
-		width: calc(100% + 3em);
+		width: calc(100% + 18em);
 	}
 
 		.features article {
@@ -4518,6 +4518,19 @@ background-size: 90%;
 		transition: filter 0.4s ease-out;
 	}
 
+	.articlep-header-wrap .published {
+		border-left: 1px solid #d4d3d3;
+		display: inline-block;
+		margin-left: 5px;
+		padding-left: 7px;
+		position: static;
+		text-align: left;
+		width: auto;
+	}
+
+	.tag-links a:before {
+		content: "\0023";
+	}
 /* Footer */
 
 	#footer .copyright {
