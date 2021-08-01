@@ -3112,7 +3112,7 @@
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 0 2em -3em;
-		width: calc(100% + 18em);
+		/*width: calc(100% + 18em);*/
 	}
 
 		.features article {
